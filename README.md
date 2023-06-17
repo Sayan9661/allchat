@@ -1,4 +1,4 @@
-# allchat (JS + React + Firebase: Auth/FireStore + CSS + HTML)
+# AllChat (JS + React + Firebase: Auth/FireStore + CSS + HTML)
 
 ### Description
 This is a *public Chatroom* where users(with their own google account logo) can post messages.<br> 
